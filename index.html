@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.min.css">
+    <link rel="icon" type="image/x-icon" href="./images/logo.svg">
+    <title>Niteco</title>
+</head>
+
+<body>
+    <!-- header  -->
+    <header>
+        <div class="navbar-container">
+            <div class="logo">
+                <a class="menu-item" href="#about-container"><img src="./images/logo.svg" alt=""></a>
+
+            </div>
+
+            <form class="input-form" onsubmit="return false;">
+                <input type="text" class="search-input" placeholder="search..." />
+            </form>
+
+            <ul class="menu">
+                <li><a class="menu-item" href="#products-container">Products</a></li>
+                <li><a class="menu-item" href="#about-container">About us</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- main  -->
+    <main>
+        <section>
+            <div id="about-container">
+                <div class="overview-container">
+                    <div class="font-48">Hobs</div>
+                    <div class="font-20">Accessories & Spare Parts</div>
+
+                    <button class="font-20 upercase">Read More</button>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- products -->
+        <section>
+            <div id="products-container">
+                <div class="font-48 flex-center upercase">Hobs</div>
+
+                <div class="products">
+
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- footer  -->
+    <footer>
+        <div>
+            &copy;2018 Niteco Viet Nam
+        </div>
+    </footer>
+</body>
+<script src="./src/prototype.js"></script>
+<script src="./mockdata/data.js"></script>
+<script type="module" src="./main.js"></script>
+
+</html>

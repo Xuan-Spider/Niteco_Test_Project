@@ -1,0 +1,44 @@
+[
+    {
+        "Id": 1,
+        "ImageUrl": "./images/hob1.png",
+        "Title": "PRODUCT ONE",
+        "Description": "En el caso que hayas contratado un servicio de instalación para este producto, nuestra empresa instaladora se pondrán en contacto contigo para acordar una fecha en la que realizar la instalación en tu domicilio. El plazo de instalación es entre 1 y 4 días laborables* desde que se confirma la cita con el instalador.La entrega y la instalación del producto se realizan en dos visitas por separado, consulta que trabajos incluye tu instalación en el apartado informativo",
+        "Price": "6.000.000 VND"
+    },
+    {
+        "Id": 2,
+        "ImageUrl": "./images/hob2.png",
+        "Title": "PRODUCT TWO",
+        "Description": "Bertazzoni rangetops and cooktops are superb cooking appliances designed, engineered and made in Italy. All Bertazzoni appliances integrate seamlessly into style-harmonized suites for a true, high-performing kitchen. Bertazzoni touch-control induction cooktops represent the fastest and most energy-efficient way to cook. With total output of up to 11100 Watts and booster function, full power is available instantly and is delivered directly to the cookware, eliminating inconvenient heat-up time and wasted energy. The induction cooktops come with 4 or 5 individually-controlled extra-large heating zones on a beveled black glass main top. The lateral zones can be bridged to form a larger heating area. Cleaning is super-easy, just spray with glass cleaner and wipe the glass surface clean.",
+        "Price": "6.000.000 VND"
+    },
+    {
+        "Id": 3,
+        "ImageUrl": "./images/hob3.png",
+        "Title": "PRODUCT ONE",
+        "Description": "Induction cooktops only start heating your pot or pan once you’ve placed it on the ceramic surface and stop as soon as you remove it – so you don’t have to worry about curious little fingers or leaving an element on.",
+        "Price": "6.000.000 VND"
+    },
+    {
+        "Id": 4,
+        "ImageUrl": "./images/hob1.png",
+        "Title": "PRODUCT ONE",
+        "Description": "En el caso que hayas contratado un servicio de instalación para este producto, nuestra empresa instaladora se pondrán en contacto contigo para acordar una fecha en la que realizar la instalación en tu domicilio. El plazo de instalación es entre 1 y 4 días laborables* desde que se confirma la cita con el instalador.La entrega y la instalación del producto se realizan en dos visitas por separado, consulta que trabajos incluye tu instalación en el apartado informativo",
+        "Price": "6.000.000 VND"
+    },
+    {
+        "Id": 5,
+        "ImageUrl": "./images/hob2.png",
+        "Title": "PRODUCT TWO",
+        "Description": "Bertazzoni rangetops and cooktops are superb cooking appliances designed, engineered and made in Italy. All Bertazzoni appliances integrate seamlessly into style-harmonized suites for a true, high-performing kitchen. Bertazzoni touch-control induction cooktops represent the fastest and most energy-efficient way to cook. With total output of up to 11100 Watts and booster function, full power is available instantly and is delivered directly to the cookware, eliminating inconvenient heat-up time and wasted energy. The induction cooktops come with 4 or 5 individually-controlled extra-large heating zones on a beveled black glass main top. The lateral zones can be bridged to form a larger heating area. Cleaning is super-easy, just spray with glass cleaner and wipe the glass surface clean.",
+        "Price": "6.000.000 VND"
+    },
+    {
+        "Id": 6,
+        "ImageUrl": "./images/hob3.png",
+        "Title": "PRODUCT ONE",
+        "Description": "Induction cooktops only start heating your pot or pan once you’ve placed it on the ceramic surface and stop as soon as you remove it – so you don’t have to worry about curious little fingers or leaving an element on.",
+        "Price": "6.000.000 VND"
+    }
+]
